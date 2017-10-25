@@ -36,6 +36,8 @@ Some of the tasks that a store admin can perform are:
 ![Homepage](Screenshots/productDescriptionpage.png) 
 
 
+
+
 3. StoreFront Screens
 
 
@@ -47,7 +49,12 @@ M Store
 E-Store
 ![Homepage](Screenshots/estore.png)
 
-3. In-Store Screens
+
+
+
+
+
+4. In-Store Screens
 
 	Products Display Page along with a filter sidebar
 
