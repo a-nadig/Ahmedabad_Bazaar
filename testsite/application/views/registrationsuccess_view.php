@@ -1,0 +1,20 @@
+
+<html>
+
+	<head>
+		<link rel="stylesheet" href="<?php echo base_url('assets/css/bootstrap.min.css');?>">
+	</head>
+
+	<body>
+		<h1 style="text-align: center;color: blue" > You have registered successfully with Ahmedabad Bazaar!<h1/><br />
+		<h2 style="text-align: center; color: blue"> A confirmation email has been sent to <span class="well"><?php echo $email; ?></span></h2>
+		
+		<div class="container col-md-offset-5 text-center">
+			<a href="<?php echo base_url()."storeadmin/gotodashboard" ;?>" class='btn btn-info btn-lg'>Proceed</a> 
+		</div>
+
+		
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+		<script src="<?php echo base_url('assets/js/bootstrap.min.js'); ?>"></script>
+	</body>
+</html>

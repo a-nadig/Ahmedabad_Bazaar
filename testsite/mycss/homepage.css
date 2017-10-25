@@ -1,0 +1,69 @@
+@font-face {
+	font-family: 'harlow';
+	src: url("fonts/Harlow Solid Italic Italic.eot");
+}
+@font-face {
+	font-family: 'harlow';
+	src: url("fonts/Harlow Solid Italic Italic.ttf");
+}
+@font-face {
+  font-family: 'Cookie';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Cookie-Regular'), url("fonts/LilyScriptOne-Regular.ttf");
+}
+
+.fa{
+color: red;
+}
+.name{
+width: 100%;
+text-align: center;
+ position: absolute;
+ top : 30%;
+    
+    
+   
+    
+    font-size: 80px;
+	color: white;
+
+}
+.title{
+display: inline-block;
+white-space: nowrap;
+font-family: 'Lily Script One', cursive;
+
+	font-size:100px;
+	
+	
+	}
+.konami{
+font-size: 30px;
+display: block;
+}
+.buttons {
+display: inline-block;
+
+text-align: center;
+bottom: 20px;
+
+}
+.buttons span{
+margin-left: 20px;
+}
+html{
+}
+
+body{
+background-image: url(images/ahmdbazaar.jpg);
+background-repeat: no-repeat;
+background-position:center;
+background-size:cover;
+background-color: black;
+-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+*/
+  }

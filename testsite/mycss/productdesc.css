@@ -1,0 +1,59 @@
+body{
+color: #34495E;
+}
+.productcontainer{
+background-color:white;}
+.info{
+float:left;
+margin-top:25px;
+}
+.productname{
+font-size: 28px;
+font-weight: lighter;
+letter-spacing: 0.25px;
+line-height: 1;
+margin-bottom: 0px;
+color: #34495E;
+
+}
+.image{
+float:left;
+width: 360px;
+height:480px;}
+
+
+.price{
+font-weight: 700;
+font-size: 24px;
+border-bottom: 1px solid #DDD;
+margin-bottom: 20px;
+padding-bottom: 7px;
+padding-top: 10px;
+margin-top: 20px;
+
+}
+.addto .btn{
+margin-right: 20px;
+}
+.addto{
+margin-top: 10px;
+}
+.color-in {
+color: #4CC94A;
+}
+.color-out{
+color: #F00;
+}
+.icons{
+display: block;
+
+margin-top:5px;
+}
+
+.icons h3{
+font-family: "Oswald",sans-serif;
+font-size: 18px;
+float: left;
+font-weight: normal;
+margin-right: 10px;
+}
