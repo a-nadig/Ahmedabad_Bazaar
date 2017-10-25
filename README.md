@@ -24,32 +24,43 @@ The dashboard is where the store admin can manage his store and edit everything 
  
 ![Homepage](Screenshots/adminscreen.png)
 
+
 Some of the tasks that a store admin can perform are:
 
 	Manage the products in his/her store
 ![Homepage](Screenshots/manageproducts.png) 
+
+
 
 	View details of orders placed in his store
 ![Homepage](Screenshots/productDescriptionpage.png) 
 
 
 3. StoreFront Screens
+
+
 M Store 
 ![Homepage](Screenshots/mstore.png) 
+
+
 
 E-Store
 ![Homepage](Screenshots/estore.png)
 
-5.3 In-Store Screens
+3. In-Store Screens
+
 	Products Display Page along with a filter sidebar
- ![Homepage](Screenshots/productDisplayPage.png)
+
+![Homepage](Screenshots/productDisplayPage.png)
 
 
 	Product Description Page
+
 ![Homepage](Screenshots/productDescriptionpage.png)
 
 
 	Shopping Cart screen
+
 ![Homepage](Screenshots/shoppingCartscreen.png) 
 
 
