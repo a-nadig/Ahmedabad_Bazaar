@@ -17,6 +17,10 @@ Home Page:
 
 ![Homepage](Screenshots/homepage.png)
 
+
+
+
+
 2. Store Admin Screens
 
 Dashboard screen:
@@ -34,6 +38,10 @@ Some of the tasks that a store admin can perform are:
 
 	View details of orders placed in his store
 ![Homepage](Screenshots/productDescriptionpage.png) 
+
+
+
+
 
 
 
